@@ -1,0 +1,1 @@
+Potrebno je raspakirati .zip, te importati bazu podataka koja se nalazi u direktoriju /DB files u Microsoft SQL server.
